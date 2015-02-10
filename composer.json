@@ -16,6 +16,7 @@
 		"psr-4": { "Cascade\\ChangelogSql\\": "class/" }
 	},
 	"require": {
+		"cascade/libchangelog_sql": ">=1.0",
 		"cascade/composer-plugin": ">=1.1",
 		"cascade/core": ">=0.11"
 	}
